@@ -1,0 +1,5 @@
+name: ChatFilter
+version: '${project.version}'
+main: com.gmail.perpltxed.chatfilter.ChatFilter
+api-version: 1.18
+authors: [ Perpltxed ]
